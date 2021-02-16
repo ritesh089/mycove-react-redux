@@ -1,0 +1,6 @@
+{
+  "name": "EmployeeDashboard",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./EmployeeDashboard.js"
+}

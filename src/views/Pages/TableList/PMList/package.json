@@ -1,0 +1,6 @@
+{
+  "name": "PMList",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./PMList.js"
+}

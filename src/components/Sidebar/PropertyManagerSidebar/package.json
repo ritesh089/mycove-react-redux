@@ -1,0 +1,6 @@
+{
+  "name": "PropertyManagerSidebar",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./PropertyManagerSidebar.js"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "PropertyManagerRegister",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./PropertyManagerRegister.js"
+}

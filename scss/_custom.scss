@@ -1,0 +1,126 @@
+// Here you can add other styles
+
+
+.uploadImg .img-uploadImg {
+    width: 56px;
+    height: 56px;
+}
+
+.badge-delete {
+    color: #fff;
+    background-color: #4dbd74;
+}
+
+.uploadImg {
+  position: relative;
+  display: inline-block;
+  width: 76px; }
+
+  .uploadImg .uploadImg-status {
+      position: absolute;
+      right: 4px;
+      top: -8px;
+      display: block;
+      /* width: 25px; */
+      /* height: 17px; */
+      border: 1px solid #f86c6b;
+      border-radius: 59em;
+  }
+.file-input-wrapper {
+    width: 200px;
+    height: 40px;
+    overflow: hidden;
+    position: relative;
+  }
+  .file-input-wrapper > input[type="file"] {
+    font-size: 200px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    opacity: 0;
+  }
+  .file-input-wrapper > .btn-file-input {
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+  }
+.vertical-divider {
+  position: absolute;
+  z-index: 10;
+  top: 50%;
+  left: 50%;
+  margin: 0;
+  padding: 0;
+  width: auto;
+  height: 50%;
+  line-height: 0;
+  text-align:center;
+  text-transform: uppercase;
+  transform: translateX(-50%);
+}
+
+.vertical-divider:before,
+.vertical-divider:after {
+  position: absolute;
+  left: 50%;
+  content: '';
+  z-index: 9;
+  border-left: 1px solid rgba(34,36,38,.15);
+  border-right: 1px solid rgba(255,255,255,.1);
+  width: 0;
+  height: calc(100% - 1rem);
+}
+.vertical-divider:before {
+  top: -100%;
+}
+
+.vertical-divider:after {
+  top: auto;
+  bottom: 0;
+}
+
+.input-group-addon {
+    padding: 0.25rem 0.75rem;
+    margin-bottom: 0;
+    font-size: 0.875rem;
+    font-weight: normal;
+    line-height: 1.25;
+    color: #3e515b;
+    text-align: center;
+    background-color: #f0f3f5;
+    border: 1px solid #c2cfd6;
+}
+
+.img-login-logo {
+    border-radius: 50em;
+	width:20em;
+}
+
+.invalid-feedback-custom {
+	display: block;
+	margin-top: .25rem;
+	font-size: .875rem;
+	color: #f86c6b
+ }
+
+
+.bg-login-logo {
+    background-color: #a0c0cc !important;
+}
+
+
+div.input-group {
+    position: relative;
+    display: flex;
+    width: 100%;
+}
+.app-header.navbar .navbar-brand {
+		display: inline-block;
+		width: 155px;
+		padding: .5rem 1rem;
+		margin-right: 0;
+		background-image: url(../public/img/mycove_logo.svg);
+		background-repeat: no-repeat;
+		background-position: 50%;
+		background-size: 70px auto
+	 }

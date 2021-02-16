@@ -1,0 +1,6 @@
+{
+  "name": "PropertyManagerDashboard",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./PropertyManagerDashboard.js"
+}

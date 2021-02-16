@@ -1,0 +1,6 @@
+{
+  "name": "EmployeeRegister",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./EmployeeRegister.js"
+}
